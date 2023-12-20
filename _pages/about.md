@@ -1,26 +1,47 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "# Father # Industrial Consultant # Data Scientist # Entrepreneur"
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <div style="text-align: center;">
+      <p>My Little Princess: Luna</p>
+    </div>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am [Ali Kaya](https://www.linkedin.com/in/ali-kaya-finland/), a committed Erasmus Mundus student presently enrolled in the [EDISS program](https://www.master-ediss.eu/) at [Abo Akademi University](https://www.abo.fi/en/). Additionally, I have the privilege of serving as a part-time research assistant in a maritime robotics program, working under the esteemed supervision of [Sebastien Lafond](https://research.abo.fi/en/persons/sebastien-lafond).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My academic journey has seen me successfully complete my initial master's degree in Information Technology with distinction from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/comp/) in 2013. Following this achievement, I entered the corporate landscape, contributing my expertise to renowned multinational corporations. Key roles include serving as a [CoE](https://support.sap.com/en/offerings-programs/ccoe.html) and Field consultant at [SAP](https://www.sap.com/), from 2013 to 2016, followed by assuming the responsibilities of an industrial consulting manager at [Lenovo](https://www.lenovo.com/ao/en/about/our-businesses/capital-incubator-group) from 2016 to 2018. By the close of 2018, I co-founded an e-commerce startup in the Philippines. From 2021 onward, my focus shifted to the significant role of raising my daughter [Luna](#), who is now two years old.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p align="center">
+  <a href="https://www.master-ediss.eu/">
+    <img src="assets/img/EDISS.png" alt="EDISS Program" style="width:100px; height:100px; margin:5px;">
+  </a>
+  <a href="https://www.abo.fi/">
+    <img src="assets/img/Abo.png" alt="Abo Akademi University" style="width:100px; height:100px; margin:5px;">
+  </a>
+  <a href="https://www.lenovo.com/ao/en/about/our-businesses/capital-incubator-group">
+    <img src="assets/img/Lenovo.png" alt="Lenovo" style="width:100px; height:100px; margin:5px;">
+  </a>
+  <a href="https://www.sap.com/index.html">
+    <img src="assets/img/SAP.png" alt="SAP" style="width:100px; height:100px; margin:5px;">
+  </a>
+  <a href="https://www.polyu.edu.hk/en">
+    <img src="assets/img/PolyU.png" alt="Hong Kong Polytechnic University" style="width:100px; height:100px; margin:5px;">
+  </a>
+</p>
+
+Recently, I made the decision to re-enter academia. Since the autumn of 2023, I have been diligently pursuing my second master's degree in [EDISS program](https://www.master-ediss.eu/). The first year of this endeavor is being completed at [Abo Akademi University](https://www.abo.fi/en/) in Finland, with the second year scheduled at [Malardalen University](https://www.mdh.se/) in Sweden.
+
+With over a decade of professional experience, my expertise spans [Business Management](#), [IT](#), and [Data consulting](#). I possess extensive knowledge in SAP product domains, covering areas such as [Product Lifecycle Management](https://www.sap.com/products/scm/plm-r-d-engineering.html), [Product Planning](https://www.sap.com/products/erp.html), [Manufacturing Execution](https://www.sap.com/finland/products/scm/execution-mes/what-is-mes.html), and [Master Data Management](https://www.sap.com/finland/products/technology-platform/master-data-governance/what-is-mdm.html). Moreover, I am proficient in guiding projects from conceptualization to implementation, particularly within the realm of [Industry 4.0](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution#:~:text=Industry%204.0%20integrates%20processes%20vertically,all%20key%20value%20chain%20partners.). In the field of [Data Science](#), I am well-versed in tasks ranging from Exploratory Data Analysis to the implementation of machine learning algorithms and deep learning techniques such as CNNs and GANs. Regarding [Robotics](#), I am currently delving into [ROS2](https://docs.ros.org/en/iron/index.html).
