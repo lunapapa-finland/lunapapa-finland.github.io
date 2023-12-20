@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lunapapa-finland
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - lunapapa-finland/EDISS-DS-MINI3
+  - lunapapa-finland/EDISS-DS-MINI2
+  - lunapapa-finland/EDISS-DS-MINI1
+  - lunapapa-finland/EDISS-GPU
+  - lunapapa-finland/EDISS-PARALLEL
+
