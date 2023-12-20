@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repositories
+description: All the project outputs and materials generated throughout my studies at EDISS will be made available in this repository.
 nav: true
 nav_order: 3
 ---

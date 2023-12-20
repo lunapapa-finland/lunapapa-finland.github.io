@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: My Daughter
-description: members of the lab or group
+title: Luna
+description: My beloved Daughter
 nav: true
 nav_order: 6
 
@@ -10,19 +10,21 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: luna0.jpg
+    content: luna5.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>5 Hours</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: luna1.jpg
+    content: luna378.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>378 Days</p>
+  - align: right
+    image: luna2.jpg
+    content: luna826.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>827 Days</p>
 ---
