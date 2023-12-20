@@ -1,3 +1,7 @@
+This repo is a fork of [al-folio](https://github.com/alshedivat/al-folio), if you want to check the details of the instruction, please
+
+<details><summary>(click to expand) <strong>Details about al-folio:</strong></summary>
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
@@ -223,7 +227,7 @@ The recommended approach for using **al-folio** is to first create your own site
 After everything is set up, you can download the repository to your machine and start customizing it. To do so, run the following commands:
 
 ```bash
-$ git clone git@github.com:<your-username>/<your-repo-name>.git
+git clone git@github.com:<your-username>/<your-repo-name>.git
 ```
 
 ---
@@ -238,8 +242,8 @@ You need to take the following steps to get `al-folio` up and running on your lo
 - Finally, run the following command that will pull the latest pre-built image from DockerHub and will run your website.
 
 ```bash
-$ docker compose pull
-$ docker compose up
+docker compose pull
+docker compose up
 ```
 
 Note that when you run it for the first time, it will download a docker image of size 400MB or so. To see the template running, open your browser and go to `http://localhost:8888`. You should see a copy of the theme's demo website.
@@ -255,7 +259,7 @@ Now, feel free to customize the theme however you like (don't forget to change t
 Build and run a new docker image using:
 
 ```bash
-$ docker compose up --build
+docker compose up --build
 ```
 
 > If you want to update jekyll, install new ruby packages, etc., all you have to do is build the image again using `--force-recreate` argument at the end of the previous command! It will download Ruby and Jekyll and install all Ruby packages again from scratch.
@@ -327,7 +331,7 @@ If you need to manually re-deploy your website to GitHub pages, go to Actions, c
 If you decide to not use GitHub Pages and host your page elsewhere, simply run:
 
 ```bash
-$ bundle exec jekyll build --lsi
+bundle exec jekyll build --lsi
 ```
 
 which will (re-)generate the static webpage in the `_site/` folder.
@@ -336,7 +340,7 @@ Then simply copy the contents of the `_site/` directory to your hosting server.
 If you also want to remove unused css classes from your file, run:
 
 ```bash
-$ purgecss -c purgecss.config.js
+purgecss -c purgecss.config.js
 ```
 
 which will replace the css files in the `_site/assets/css/` folder with the purged css files.
@@ -357,7 +361,7 @@ Firstly, from the deployment repo dir, checkout the git branch hosting your publ
 Then from the website sources dir (commonly your al-folio fork's clone):
 
 ```bash
-$ bundle exec jekyll build --lsi --destination $HOME/repo/publishing-source
+bundle exec jekyll build --lsi --destination $HOME/repo/publishing-source
 ```
 
 This will instruct jekyll to deploy the website under `$HOME/repo/publishing-source`.
@@ -375,7 +379,7 @@ The quote below is taken directly from the [jekyll configuration docs](https://j
 If `$HOME/repo/publishing-source` contains files that you want jekyll to leave untouched, specify them under `keep_files` in `_config.yml`.
 In its default configuration, al-folio will copy the top-level `README.md` to the publishing source. If you want to change this behavior, add `README.md` under `exclude` in `_config.yml`.
 
-**Note:** Do _not_ run `jekyll clean` on your publishing source repo as this will result in the entire directory getting deleted, irrespective of the content of `keep_files` in `_config.yml`.
+**Note:** Do *not* run `jekyll clean` on your publishing source repo as this will result in the entire directory getting deleted, irrespective of the content of `keep_files` in `_config.yml`.
 
 </details>
 
@@ -735,3 +739,5 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
+
+</details>
