@@ -1,87 +1,47 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+
   "basics": {
     "name": "Ali Kaya",
-    "label": "#Full-time student from 2023-2025 #Industrial Consultant #Data Scientist #Entrepreneur #Father #Investor #Residing in Finland",
-    "image": "",
-    "email": "alikaya.suomi@gmail.com",
-    "phone": "",
-    "url": "https://alibabagogogo.github.io/",
-    "summary": "Transitioning from a career gap and going back to EDISS to reset my everything.\n\nBusiness management and IT project consulting with 10+ years of experience in Product Lifecycle Management, Product Planning, Manufacturing Execution and Master Data Management, etc.; and in E-commerce Project Management and Execution, etc. Skilled in SAP Products and corresponding Business Consultant & Analysis, Presales & PoC activities like Value Proposition, Coding like ABAP, Python, and R, and Start-ups Management, etc.",
+    "label": "# Father # Data Scientist # Industrial Consultant # Entrepreneur",
+    "summary": "An accomplished professional with over 10 years of experience in Data Analytics, IT Consulting, and Business Management. Possessing proficiency in Data Analytics, Machine Learning, and SAP Products such as ERP, PLM, MES, etc. Demonstrating expertise in Presales activities and After-sales support, coupled with proficiency in coding languages including ABAP, Python, C++, and R. ",
     "location": {
-      "countryCode": "US",
-      "address": "Finland"
+      "countryCode": "FI",
+      "address": "Åbo Akademi University, Turku 20540, Finland"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "ali-kaya-finland",
         "url": "https://www.linkedin.com/in/ali-kaya-finland/"
+      },
+      {
+        "network": "GitHub",
+        "username": "lunapapa-finland",
+        "url": "https://github.com/lunapapa-finland"
       }
     ]
   },
-  "work": [
+   "education": [
     {
-      "name": "Åbo Akademi University",
-      "position": "Research Assistant",
-      "startDate": "2023",
-      "endDate": "",
-      "highlights": [],
-      "summary": "The Åboat Project serves as an innovative platform for conducting advanced research in fields like Machine Learning and Artificial Intelligence. This platform features a remotely controlled, state-of-the-art boat developed in the past two years. It is equipped with cutting-edge technologies, including ROS2 for control and communication, as well as a comprehensive sensor suite, comprising Sonar, cameras, LiDAR, GPS, IMU, and more. These capabilities enable researchers to explore a wide range of applications and experiments in a real-world, aquatic environment.\n\nI am tasked with the responsibility of refactoring code, meticulously documenting it in a sophisticated manner, and, when necessary, reevaluating or even redesigning certain aspects of the architecture to improve overall system efficiency and maintainability.",
-      "url": "https://www.linkedin.com/school/abo-akademi-university/",
-      "location": "Turku, Southwest Finland, Finland"
-    },
-    {
-      "name": "Investwide",
-      "position": "Co Funder & Director",
-      "startDate": "2018",
-      "endDate": "2022",
-      "highlights": [],
-      "summary": "· Managing the overall operations of Investwide Inc., leading its development through different strategies, ensuring all plans and goals to be aligned in the attainment of the organization's vision and mission. \n· Investwide Inc. is a start-up company established in November, 2018 by myself. It is focused on building up a good partnership with a Chinese E-commerce company which can offer diverse commodities and online shopping platform in the Philippines to fulfill needs that will continue to exist in the local market – the need for faster speed, higher quality as well as lower price of commercial goods. The ideal target customers are Chinese nationals who are residing in the Philippines at the very beginning and eventually, the customer groups will be expanded to  locals as well.",
-      "url": "",
-      "location": "National Capital Region, Philippines"
-    },
-    {
-      "name": "Lenovo Capital and Incubator Group",
-      "position": "Industrial Consulting Manager",
-      "startDate": "2016",
-      "endDate": "2018",
-      "highlights": [],
-      "summary": "Worked @ Lenovo Capital & Incubator Group as an Industry & Business Consultant in the department of Big Data Platform and, directly report to senior director. \n\n- Focusing areas include Intelligent Manufacturing and Intelligent Supply Chain Management in the area of big data analysis etc. Daily works can be summarized as providing business value analysis, storytelling workshop, industry best practice big data analysis solution etc. I have helped internal & external entities to plan for topics like Predictive Maintenance, Customer Portraits, Health Risk Analysis of Procurement and etc. During that period of time, I had already supported different customers in the pre-sales/after-sales stages, like XXX Fiber Manufacturer, XXX steel manufacturer, XXX Auto Manufacturer, ITS Provider etc. Some of business opportunities have already been converted to contracts.\n- As a presale, I over completed quotas assigned to me every year.\n- As a consultant. I gave a plenty of public speeches to different stake holders(C-level) as well as public audience.",
-      "url": "https://www.linkedin.com/company/lenovocapital/",
-      "location": "Beijing, China"
-    },
-    {
-      "name": "SAP",
-      "position": " CoE & Functional Consultant",
-      "startDate": "2013",
-      "endDate": "2016",
-      "highlights": [],
-      "summary": "Focus area: PLM, MES, Visual Enterprise, Discrete Manufacturing, Document Management etc.\n\nDuring these years at SAP, I experienced lots of customer services, like VTO, BPPO, IV, GLS , etc. I helped customers dig out existing issues and potential risks, say, helped US customer ExxonMobil to find out the bottle neck of processing big data during VTO remote service, and get rewords from SAP US , etc.\n\nDuring 2014, I spent almost one year to help Heli, a forklift truck manufacture, to implement PLM system, phase III, which is the lighthouse project in discrete industry in China. During that period of time, I mastered Product Life-Cycle Management methodology and the whole process of converting a product specification to the mass production, including document management, product structure management, BOM management, routing management and visual engineering technology , etc.\n\nIn 2015 and 2016, however, I moved to the area of manufacturing execution. I was helping more than three big companies to implement MES to take the first step towards Industry 4.0. My daily works can be summerized as Conducting business requirement analysis; Identifying functional gaps; Composing functional specifications; organizing necessary resources and calculating man days etc.",
-      "url": "https://www.linkedin.com/company/sap/",
-      "location": "Beijing, China"
-    },
-    {
-      "name": "The Hong Kong Polytechnic University",
-      "position": "Project Assistant",
-      "startDate": "2013",
-      "endDate": "2013",
-      "highlights": [],
-      "summary": "Developing An e-learning system based on Ontology, and Developing OpenWRT for a SmartHome Project",
-      "url": "https://www.linkedin.com/school/hong-kong-polytechnic-university/",
-      "location": "Hong Kong SAR"
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "EDISS Master's programme on the Engineering of Data-intensive Intelligent Software Systems (EMJMD)",
-      "area": "Artificial Intelligence",
+      "institution": "Åbo Akademi University",
+      "area": "EDISS Master's programme on the Engineering of Data-intensive Intelligent Software Systems (EMJMD)",
       "studyType": "Master of Science - MS",
       "startDate": "2023",
       "endDate": "2025",
-      "score": "",
-      "courses": []
+      "status": "Ongoing",
+      "location": "Finland", 
+      "url": "https://www.master-ediss.eu/",
+      "courses": [ {"name": "GPU Programming", "url": "https://github.com/lunapapa-finland/EDISS-GPU"},
+      {"name": "Parallel Programming", "url": "https://github.com/lunapapa-finland/EDISS-PARALLEL"},
+      {"name": "Data Science", "url": "https://github.com/lunapapa-finland/EDISS-DS-MINI3"},
+      {"name": "Artificial Intelligence", "url": ""},
+      {"name": "Research Internship", "url": "https://github.com/lunapapa-finland/EDISS-CyclyGAN"},
+      {"name": "Machine Learning", "url": ""},
+      {"name": "Data Intensive Engineering I & II", "url": ""},
+      {"name": "Embedded AI", "url": ""},
+      {"name": "Analytics for Industrial Internet", "url": ""},
+      {"name": "System Architecture of IoT", "url": ""}
+    ]
     },
     {
       "institution": "The Hong Kong Polytechnic University",
@@ -89,162 +49,190 @@
       "studyType": "Master of Science - MS",
       "startDate": "2011",
       "endDate": "2013",
-      "score": "3.95/4",
-      "courses": []
+      "status": "Distinction",
+      "location": "Hong Kong", 
+      "url": "https://www.polyu.edu.hk/en/comp/study/taught-postgraduate-programme/mscit/",
+        "courses": [
+        {"name": "E-commerce", "url": ""},
+        {"name": "Extreme programming", "url": ""},
+        {"name": "Internet infrastructure", "url": ""},
+        {"name": "Computer Architecture", "url": ""},
+        {"name": "Multimedia Computing", "url": ""},
+        {"name": "Artificial Intelligence", "url": ""},
+        {"name": "Information Security", "url": ""},
+        {"name": "Dissertation", "url": ""}
+      ]
     }
   ],
+  "work": [
+    {
+      "name": "Åbo Akademi University",
+      "position": "Part-Time Research Assistant",
+      "startDate": "2023",
+      "endDate": "",
+      "highlights": ["ROS2", "Maritime", "C++", "Machine Learning"],
+      "summary": "Contributing to the innovative Åboat Project, conducting advanced research in Machine Learning and Artificial Intelligence. Responsible for refactoring code, meticulous documentation, and architectural improvements to enhance system efficiency and maintainability.",
+      "url": "https://www.abo.fi/en/news/the-aboat-shows-turku-from-a-new-perspective/",
+      "location": "Finland"
+    },
+    {
+      "name": "Investwide",
+      "position": "Co-Founder & Director",
+      "startDate": "2018",
+      "endDate": "2022",
+      "highlights": ["E-Commerce", "Startup", "Entrepreneurship"],
+      "summary": "Led the overall operations of Investwide Inc., a startup focused on establishing partnerships with Chinese E-commerce companies. Successfully developed a platform for diverse commodities and an online shopping experience in the Philippines. Achieved goals aligned with the organization's vision and mission.",
+      "url": "",
+      "location": "Philippine"
+    },
+    {
+      "name": "Lenovo Capital and Incubator Group",
+      "position": "Industrial Consulting Manager",
+      "startDate": "2016",
+      "endDate": "2018",
+      "highlights": ["Industrial 4.0", "Consulting", "Presales", "Orator"],
+      "summary": "Manageda an Industry & Business Consulting team for Lenovo Capital & Incubator Group, specializing in Big Data Platform. Provided business value analysis, storytelling workshops, and big data analysis solutions. Successfully converted business opportunities into contracts, surpassing assigned quotas annually.",
+      "url": "https://www.lenovo.com/ao/en/about/our-businesses/capital-incubator-group",
+      "location": "China"
+    },
+    {
+      "name": "SAP",
+      "position": "CoE & Functional Consultant",
+      "startDate": "2013",
+      "endDate": "2016",
+      "highlights": ["Functional Consultant", "Filed Consultant", "Product Management"],
+      "summary": "Specialized in PLM, MES, Visual Enterprise, and Discrete Manufacturing at SAP. Identified and addressed customer issues, conducted business requirement analysis, and implemented state-of-the-art module for companies moving towards Industry 4.0.",
+      "url": "https://www.sap.com",
+      "location": "China"
+    },
+    {
+      "name": "The Hong Kong Polytechnic University",
+      "position": "Part-time Project Assistant",
+      "startDate": "2013",
+      "endDate": "2013",
+      "highlights": ["Ontology", "OpenWRT"],
+      "summary": "Contributed to the development of an e-learning system based on Ontology and participated in the development of OpenWRT for a SmartHome Project.",
+      "url": "https://polyu.edu.hk/en/comp/",
+      "location": "Hong Kong"
+    },
+    {
+      "name": "The Hong Kong Polytechnic University",
+      "position": "Part-time Research Assistant",
+      "startDate": "2012",
+      "endDate": "2012",
+      "highlights": ["Java", "Artificial Intelligence"],
+      "summary": "Implemented an AI system using JSF, Spring, and Hibernate structure. The developed website is still in use in the computing department.",
+      "url": "https://polyu.edu.hk/en/comp/",
+      "location": "Hong Kong"
+    }
+  ],
+  "volunteer": [],
+
   "awards": [],
   "certificates": [
     {
-      "name": "English Proficiency Certificate",
-      "issuer": "Duolingo English Test",
-      "endDate": "2024",
-      "startDate": "2022",
-      "url": "http://certs.duolingo.com/cd25db726dac5fc2a564b4e47e83a0ac"
-    },
-    {
       "name": "Python for Everybody Specialization",
+      "icon": "https://brand.umich.edu/wp-content/themes/micbrand/img/um_logo_footer.svg", 
       "issuer": "University of Michigan",
-      "startDate": "2022",
+      "date": "2022",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/RUK5QBUZ3CFA"
     },
     {
       "name": "Google Data Analytics Certificate",
       "issuer": "Google",
-      "startDate": "2022",
+      "icon": "https://pngimg.com/uploads/google/google_PNG19635.png",
+      "date": "2022",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/47U9J8WUPM47"
     },
     {
       "name": "Google IT Automation with Python Specialization",
       "issuer": "Google",
-      "startDate": "2022",
+      "icon":"https://pngimg.com/uploads/google/google_PNG19635.png",
+      "date": "2022",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/DAFMR9RWJMAA"
     },
     {
       "name": "Meta Marketing Analytics Specialization",
       "issuer": "Meta",
-      "startDate": "2023",
+      "icon":"https://pngimg.com/uploads/meta/meta_PNG12.png",
+      "date": "2023",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/677RU8L2BAH5"
     }
   ],
   "publications": [],
-  "skills": [
+"skills": [
     {
-      "name": "Robot Operating System (ROS)",
-      "level": "",
-      "keywords": []
+      "name": "ROS2",
+      "level": "50",
+      "keywords": ["DDS", "Topics", "Robotics", "Middleware"]
     },
     {
-      "name": "Marketing Analytics",
-      "level": "",
-      "keywords": []
+      "name": "C++",
+      "level": "50",
+      "keywords": ["Object-Oriented Programming", "Algorithms", "Software Development"]
     },
     {
-      "name": "Enterprise Resource Planning (ERP)",
-      "level": "",
-      "keywords": []
+      "name": "C",
+      "level": "50",
+      "keywords": ["Procedural Programming", "Low-Level Programming", "Embedded Systems"]
     },
     {
-      "name": "Visio",
-      "level": "",
-      "keywords": []
+      "name": "Python",
+      "level": "50",
+      "keywords": ["Scripting", "Data Science", "Web Development"]
     },
     {
-      "name": "SAP Products",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "English",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python (Programming Language)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SAP System",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SAP PLM",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Entrepreneurship",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Crypto",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Google Analytics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Smart Manufacturing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Business Consulting",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MATLAB",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Agile Methodologies",
-      "level": "",
-      "keywords": []
+      "name": "R",
+      "level": "50",
+      "keywords": ["Statistical Analysis", "Data Visualization", "Data Manipulation"]
     },
     {
       "name": "Machine Learning",
-      "level": "",
-      "keywords": []
+      "level": "50",
+      "keywords": ["Supervised Learning", "Unsupervised Learning", "Model Training"]
     },
     {
-      "name": "R (Programming Language)",
-      "level": "",
-      "keywords": []
+      "name": "Deep Learning",
+      "level": "50",
+      "keywords": ["Neural Networks", "TensorFlow", "Computer Vision"]
     },
     {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
+      "name": "SAP ERP",
+      "level": "50",
+      "keywords": ["Enterprise Resource Planning", "SAP Modules", "Business Processes"]
     },
     {
-      "name": "Chinese",
-      "level": "",
-      "keywords": []
+      "name": "SAP MES",
+      "level": "50",
+      "keywords": ["Manufacturing Execution System", "Production Planning", "Shop Floor Control"]
     },
     {
-      "name": "E-Commerce",
-      "level": "",
-      "keywords": []
+      "name": "SAP PLM",
+      "level": "50",
+      "keywords": ["Product Lifecycle Management", "CAD Integration", "Document Management"]
     },
     {
-      "name": "Jira",
-      "level": "",
-      "keywords": []
+      "name": "Data Analysis",
+      "level": "50",
+      "keywords": ["Statistical Analysis", "Data Visualization", "Data Interpretation"]
     },
     {
-      "name": "Consulting",
-      "level": "",
-      "keywords": []
+      "name": "Business Consulting",
+      "level": "50",
+      "keywords": ["Strategic Planning", "Process Improvement", "Stakeholder Management"]
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "50",
+      "keywords": ["Scrum", "Kanban", "Sprint Planning"]
+    },
+    {
+      "name": "Pitching",
+      "level": "50",
+      "keywords": ["Presentation Skills", "Persuasion", "Communication"]
     }
-  ],
+  ]
+,
   "languages": [
     {
       "fluency": "Native Speaker",
