@@ -163,72 +163,72 @@
 "skills": [
     {
       "name": "ROS2",
-      "level": "50",
+      "level": "60",
       "keywords": ["DDS", "Topics", "Robotics", "Middleware"]
     },
     {
       "name": "C++",
-      "level": "50",
+      "level": "70",
       "keywords": ["Object-Oriented Programming", "Algorithms", "Software Development"]
     },
     {
       "name": "C",
-      "level": "50",
+      "level": "70",
       "keywords": ["Procedural Programming", "Low-Level Programming", "Embedded Systems"]
     },
     {
       "name": "Python",
-      "level": "50",
+      "level": "90",
       "keywords": ["Scripting", "Data Science", "Web Development"]
     },
     {
       "name": "R",
-      "level": "50",
+      "level": "30",
       "keywords": ["Statistical Analysis", "Data Visualization", "Data Manipulation"]
     },
     {
       "name": "Machine Learning",
-      "level": "50",
+      "level": "60",
       "keywords": ["Supervised Learning", "Unsupervised Learning", "Model Training"]
     },
     {
       "name": "Deep Learning",
-      "level": "50",
+      "level": "60",
       "keywords": ["Neural Networks", "TensorFlow", "Computer Vision"]
     },
     {
       "name": "SAP ERP",
-      "level": "50",
+      "level": "80",
       "keywords": ["Enterprise Resource Planning", "SAP Modules", "Business Processes"]
     },
     {
       "name": "SAP MES",
-      "level": "50",
+      "level": "80",
       "keywords": ["Manufacturing Execution System", "Production Planning", "Shop Floor Control"]
     },
     {
       "name": "SAP PLM",
-      "level": "50",
+      "level": "80",
       "keywords": ["Product Lifecycle Management", "CAD Integration", "Document Management"]
     },
     {
       "name": "Data Analysis",
-      "level": "50",
+      "level": "85",
       "keywords": ["Statistical Analysis", "Data Visualization", "Data Interpretation"]
     },
     {
       "name": "Business Consulting",
-      "level": "50",
+      "level": "75",
       "keywords": ["Strategic Planning", "Process Improvement", "Stakeholder Management"]
     },
     {
       "name": "Agile Methodologies",
-      "level": "50",
+      "level": "60",
       "keywords": ["Scrum", "Kanban", "Sprint Planning"]
     },
     {
       "name": "Pitching",
-      "level": "50",
+      "level": "82",
       "keywords": ["Presentation Skills", "Persuasion", "Communication"]
     }
   ]
