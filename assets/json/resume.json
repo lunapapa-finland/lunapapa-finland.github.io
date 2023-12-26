@@ -67,11 +67,11 @@
   "work": [
     {
       "name": "Åbo Akademi University",
-      "position": "Part-Time Research Assistant",
+      "position": "Part-Time Research Assistant & Group Lead",
       "startDate": "2023",
       "endDate": "",
-      "highlights": ["ROS2", "Maritime", "C++", "Machine Learning"],
-      "summary": "Contributing to the innovative Åboat Project, conducting advanced research in Machine Learning and Artificial Intelligence. Responsible for refactoring code, meticulous documentation, and architectural improvements to enhance system efficiency and maintainability.",
+      "highlights": ["ROS2", "Maritime", "C++/ Python", "Machine Learning", "Code Refactoring", "Architectural Evaluation","Optimization Focus","People Management", "Project Management" ],
+      "summary": "Embedded within a Maritime context, the Åboat Project is a cutting-edge platform for advanced research in Machine Learning and Artificial Intelligence. It focuses on remotely controlling a boat using ROS2 (Robotic Operation System) and a comprehensive sensor suite, including Sonar, cameras, LiDAR, GPS, IMU, and more, positioning the project at the technological forefront. ",
       "url": "https://www.abo.fi/en/news/the-aboat-shows-turku-from-a-new-perspective/",
       "location": "Finland"
     },
@@ -80,8 +80,8 @@
       "position": "Co-Founder & Director",
       "startDate": "2018",
       "endDate": "2022",
-      "highlights": ["E-Commerce", "Startup", "Entrepreneurship"],
-      "summary": "Led the overall operations of Investwide Inc., a startup focused on establishing partnerships with Chinese E-commerce companies. Successfully developed a platform for diverse commodities and an online shopping experience in the Philippines. Achieved goals aligned with the organization's vision and mission.",
+      "highlights": ["E-Commerce", "Startup", "Entrepreneurship", "Overall Management", "Funding and Investor Relations", "Partnership Expansion", "Financial Oversight", "Technical Roadmap"],
+      "summary": "Established in November 2018, Investwide Inc. functions as a hybrid tech and wholesale enterprise, with its technical team based in China and marketing/operations teams in the Philippines. Distinguishing itself strategically from competitors like Lazada, the company focuses on serving the niche market of Chinese residents in the Philippines. Investwide’s mission is to provide a varied selection of goods and an online shopping platform, aiming to fulfill local demands for swift delivery, superior quality, and cost-effective commercial products.",
       "url": "",
       "location": "Philippine"
     },
@@ -90,8 +90,8 @@
       "position": "Industrial Consulting Manager",
       "startDate": "2016",
       "endDate": "2018",
-      "highlights": ["Industrial 4.0", "Consulting", "Presales", "Orator"],
-      "summary": "Manageda an Industry & Business Consulting team for Lenovo Capital & Incubator Group, specializing in Big Data Platform. Provided business value analysis, storytelling workshops, and big data analysis solutions. Successfully converted business opportunities into contracts, surpassing assigned quotas annually.",
+      "highlights": ["Industrial 4.0", "Consulting", "Presales", "Orator","Project Execution", "Client Support", "People Management", "Public Speaking"],
+      "summary": "Served as an Industry & Business Consulting Manager in the Big Data Platform department at Lenovo Capital & Incubator Group, reporting directly to the senior director. Specialized in Intelligent Manufacturing and Intelligent Supply Chain Management.",
       "url": "https://www.lenovo.com/ao/en/about/our-businesses/capital-incubator-group",
       "location": "China"
     },
@@ -100,8 +100,8 @@
       "position": "CoE & Functional Consultant",
       "startDate": "2013",
       "endDate": "2016",
-      "highlights": ["Functional Consultant", "Filed Consultant", "Product Management"],
-      "summary": "Specialized in PLM, MES, Visual Enterprise, and Discrete Manufacturing at SAP. Identified and addressed customer issues, conducted business requirement analysis, and implemented state-of-the-art module for companies moving towards Industry 4.0.",
+      "highlights": ["Functional Consultant", "Customer Service Experience", "Product Management"],
+      "summary": "Specialized in SAP Product Lifecycle Management (PLM), Manufacturing Execution Systems (MES), Visual Enterprise, Discrete Manufacturing, Document Management, etc., functioning as a Center of Expertise. Demonstrated leadership by providing in-depth knowledge and tailored solutions to global customers across diverse industries.",
       "url": "https://www.sap.com",
       "location": "China"
     },
@@ -157,6 +157,24 @@
       "icon":"https://pngimg.com/uploads/meta/meta_PNG12.png",
       "date": "2023",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/677RU8L2BAH5"
+    },
+    {
+      "name": "SAP Support Engineer for Workload Analysis",
+      "issuer": "SAP",
+      "icon":"https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg",
+      "date": "2014"
+    },
+        {
+      "name": "SAP Support Engineer for SAP NetWeaver",
+      "issuer": "SAP",
+      "icon":"https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg",
+      "date": "2014"
+    },
+        {
+      "name": "SAP Root Cause Analysis for Solution Manager",
+      "issuer": "SAP",
+      "icon":"https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg",
+      "date": "2014"
     }
   ],
   "publications": [],
