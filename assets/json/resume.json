@@ -182,74 +182,75 @@
     {
       "name": "ROS2",
       "level": "60",
-      "keywords": ["DDS", "Topics", "Robotics", "Middleware"]
+      "keywords": ["Data Distribution Service", "Robot Operating System", "Robotics Middleware", "Communication Topics"]
     },
     {
       "name": "C++",
       "level": "70",
-      "keywords": ["Object-Oriented Programming", "Algorithms", "Software Development"]
+      "keywords": ["Object-Oriented Design", "Algorithm Implementation", "Software Development Principles"]
     },
     {
       "name": "C",
       "level": "70",
-      "keywords": ["Procedural Programming", "Low-Level Programming", "Embedded Systems"]
+      "keywords": ["Procedural Programming", "Low-Level System Programming", "Embedded Systems Development"]
     },
     {
       "name": "Python",
       "level": "90",
-      "keywords": ["Scripting", "Data Science", "Web Development"]
+      "keywords": ["Scripting Automation", "Data Science Algorithms", "Web Development Frameworks"]
     },
     {
       "name": "R",
       "level": "30",
-      "keywords": ["Statistical Analysis", "Data Visualization", "Data Manipulation"]
+      "keywords": ["Statistical Analysis", "Data Visualization Techniques", "Data Manipulation with R"]
     },
     {
       "name": "Machine Learning",
       "level": "60",
-      "keywords": ["Supervised Learning", "Unsupervised Learning", "Model Training"]
+      "keywords": ["Supervised Learning Models", "Unsupervised Learning Approaches", "Model Training and Evaluation"]
     },
     {
       "name": "Deep Learning",
       "level": "60",
-      "keywords": ["Neural Networks", "TensorFlow", "Computer Vision"]
+      "keywords": ["Neural Network Architectures", "PyTorch Framework", "Computer Vision Applications"]
     },
     {
       "name": "SAP ERP",
       "level": "80",
-      "keywords": ["Enterprise Resource Planning", "SAP Modules", "Business Processes"]
+      "keywords": ["Enterprise Resource Planning Implementation", "SAP Module Integration", "Business Process Optimization"]
     },
     {
       "name": "SAP MES",
       "level": "80",
-      "keywords": ["Manufacturing Execution System", "Production Planning", "Shop Floor Control"]
+      "keywords": ["Manufacturing Execution System Implementation", "Production Planning Optimization", "Shop Floor Control Systems"]
     },
     {
       "name": "SAP PLM",
       "level": "80",
-      "keywords": ["Product Lifecycle Management", "CAD Integration", "Document Management"]
+      "keywords": ["Product Lifecycle Management Strategies", "CAD Integration in SAP", "Document Management in PLM"]
     },
     {
       "name": "Data Analysis",
       "level": "85",
-      "keywords": ["Statistical Analysis", "Data Visualization", "Data Interpretation"]
+      "keywords": ["Statistical Data Analysis", "Data Visualization Tools", "Data Interpretation and Reporting"]
     },
     {
       "name": "Business Consulting",
       "level": "75",
-      "keywords": ["Strategic Planning", "Process Improvement", "Stakeholder Management"]
+      "keywords": ["Strategic Planning", "Process Improvement Consultation", "Stakeholder Management Strategies"]
     },
     {
       "name": "Agile Methodologies",
       "level": "60",
-      "keywords": ["Scrum", "Kanban", "Sprint Planning"]
+      "keywords": ["Scrum Framework", "Kanban Method", "Sprint Planning and Execution"]
     },
     {
       "name": "Pitching",
       "level": "82",
-      "keywords": ["Presentation Skills", "Persuasion", "Communication"]
+      "keywords": ["Effective Presentation Skills", "Persuasive Communication", "Art of Pitching"]
     }
-  ]
+]
+
 ,
   "languages": [
     {

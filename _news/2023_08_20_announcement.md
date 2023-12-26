@@ -18,20 +18,12 @@ Exciting news—I'm thrilled to share that I've officially arrived in Finland an
 
 Being on-site and immersing myself in the EDISS program is an incredible experience. The dynamic blend of big data exploration, artificial intelligence studies, and advanced software engineering in this collaborative, international setting is everything I've been looking forward to.
 
-## Gratitude for the Journey
-
-I want to express my sincere gratitude for the support and encouragement I've received on this journey. It's been an incredible ride so far, and I'm eager to share the highlights and challenges as I navigate this enriching academic adventure.
-
 ## What's on the Horizon
 
 In the upcoming weeks, my focus will be on delving deep into the intricacies of data-intensive systems. From mastering the nuances of big data to gaining insights into advanced artificial intelligence techniques, I'm excited to absorb a wealth of knowledge during this program.
 
 ## Sharing the Ongoing Journey
 
-I'm committed to keeping you updated on my blog as I document the experiences and lessons from this unique educational chapter. Your ongoing support and engagement make this journey even more meaningful.
-
-## Here's to the Ongoing Chapter
-
-As I navigate the academic landscape in Finland, I want to express my appreciation for your support thus far. Here's to thriving in this new chapter and making the most of every opportunity that comes with the [EDISS](https://example.com/ediss) program.
+I'm committed to keeping on updating my blog as I document the experiences and lessons from this unique educational chapter.
 
 Stay tuned for more updates, and let's continue making this journey together!
