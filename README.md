@@ -741,3 +741,13 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 Since then, it got a full re-write of the styles and many additional cool features.
 
 </details>
+
+### Changes Implemented Thus Far
+
+1. Aligned the layout of posts to justify text.
+2. Revised the Json schema to introduce levels and keywords for skills, along with keywords for work experience.
+3. Updated the representation of multi-sections to more accurately depict the layout parsed by Json.
+
+### Upcoming Enhancements
+
+1. Integrating automatic PDF generation for the resume using Json. The current setup involves separate processes, and the aim is to establish a unified format for generating a visually appealing layout in the PDF version.
