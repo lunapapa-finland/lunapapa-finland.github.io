@@ -27,4 +27,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>827 Days</p>
+  - align: left
+    image: luna3.jpg
+    content: luna1053.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>1053 Days</p>
 ---
