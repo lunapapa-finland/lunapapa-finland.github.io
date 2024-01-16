@@ -26,4 +26,4 @@ In the upcoming weeks, my focus will be on delving deep into the intricacies of 
 
 I'm committed to keeping on updating my blog as I document the experiences and lessons from this unique educational chapter.
 
-Stay tuned for more updates, and let's continue making this journey together!
+Stay tuned for more updates, and let's continue making this journey together! See you!
