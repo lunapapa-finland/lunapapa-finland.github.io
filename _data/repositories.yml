@@ -2,10 +2,13 @@ github_users:
   - lunapapa-finland
 
 github_repos:
+  - lunapapa-finland/EDISS-CyclyGAN
+  - lunapapa-finland/Wolts-Data-Analysis
+  - lunapapa-finland/EDISS-ML-MINI1
   - lunapapa-finland/EDISS-DS-MINI3
   - lunapapa-finland/EDISS-DS-MINI2
   - lunapapa-finland/EDISS-DS-MINI1
   - lunapapa-finland/EDISS-GPU
   - lunapapa-finland/EDISS-PARALLEL
-  - lunapapa-finland/EDISS-CyclyGAN
+  
 
